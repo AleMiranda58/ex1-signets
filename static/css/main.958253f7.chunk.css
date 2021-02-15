@@ -1,0 +1,2 @@
+.Entete{position:-webkit-sticky;position:sticky;top:0;height:10px;margin:0;padding:20px;color:#fff;background-color:#000;display:flex;align-items:center}.Entete ul{margin:10px 0 0;padding:0;list-style:none;display:flex;font-size:.8em}.Entete ul li{cursor:pointer}.Entete ul li:not(:last-of-type){padding-right:15px}.Entete ul li:not(:first-of-type){padding-left:15px}.Entete ul.navUtilisateur{margin-left:auto}
+/*# sourceMappingURL=main.958253f7.chunk.css.map */
